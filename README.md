@@ -7,9 +7,6 @@ I am Ashmit, currently a student pursuing my **Bachelors of Technology(BTech)** 
 - I enjoy solving problems on platforms like CodeChef, CodeForces and LeetCode. My GitHub profile has repo's that contain the accepted solutions to various problems 
 #### AWS ( Amazon Web Services)
 - I am well versed with the AWS environment and the various services offfered by AWS, which I learnt as a part of my undergrad curriculum
-#### Game Development 
-- Recently I have had an interest in Game Development, I have developed a game "Percy's Adventure" which I built with the help of a follow along
-  tutorial on how to develop 3D Games using Godot Engine.
 
 
 
