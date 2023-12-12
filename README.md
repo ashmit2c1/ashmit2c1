@@ -7,6 +7,7 @@ I am Ashmit, currently a student pursuing my **Bachelors of Technology(BTech)** 
 - I enjoy solving problems on platforms like CodeChef, CodeForces and LeetCode. My GitHub profile has repo's that contain the accepted solutions to various problems 
 #### AWS ( Amazon Web Services)
 - I am well versed with the AWS environment and the various services offfered by AWS, which I learnt as a part of my undergrad curriculum
+- I passed AWS CLF-CO2 exam and achieved AWS Certified Cloud Practitioner certification. The link to my certificate on Credly can be accessed [here](https://www.credly.com/badges/e859f964-3cb9-4463-9b5f-279960a61258)
 
 
 
