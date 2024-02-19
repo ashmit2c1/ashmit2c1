@@ -8,6 +8,7 @@ I am Ashmit, currently a student pursuing my **Bachelors of Technology(BTech)** 
 #### AWS ( Amazon Web Services)
 - I am well versed with the AWS environment and the various services offfered by AWS, which I learnt as a part of my undergrad curriculum
 - I passed AWS CLF-CO2 exam and achieved AWS Certified Cloud Practitioner certification. The link to my certificate on Credly can be accessed [here](https://www.credly.com/badges/e859f964-3cb9-4463-9b5f-279960a61258)
+- I passed AWS SAA-CO3 exam and achieved AWS Certified Solutions Architect Associate certification. The link to my certificate on Credly can be accessed [here](https://www.credly.com/badges/c34555b7-092e-4e7a-8a68-c21a104b9416/public_url)
 
 
 
