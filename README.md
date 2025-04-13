@@ -1,30 +1,39 @@
-# Hello 
-I am Ashmit, currently a student pursuing my **Bachelors of Technology(BTech)** in **Computer Science & Engineering ( with Specialization in Cloud Computing & Automation )** from **Vellore Institute of Technology**
-## About Me
-#### Projects
-##### Geometric Algorithms C++
-- Designed and implemented polygon partitioning, triangulation, and convex hull algorithms for both 2D and 3D context in C++ for computational geometry tasks
-- Applied ear clipping and monotone polygon partitioning techniques to efficiently decompose complex shapes.
-- Employed plane sweep and gift wrapping algorithms for precise line segmentation and convex hull determination, optimizing performance and accuracy in geometric computations.
-##### Operating System Scheduling and Paging Algorithms
-- Scheduling Algorithms: Designed and implemented more than 3 core CPU scheduling algorithms including First-Come, First-Served (FCFS), Shortest Job First (SJF), Priority Scheduling, and Multi-Level Queue Scheduling in a C++ operating system project, improving process efficiency and resource management.
-- Paging Algorithms: Developed and optimized 3 paging algorithms such as Optimal Page Replacement (OPR), Least
-Recently Used (LRU), and Second Chance, enhancing memory management
-- Object Oriented Design : Utilized advanced C++ programming techniques, including object-oriented programming and datastructures, using efficient data structures for faster and easier access
-#### AWS ( Amazon Web Services)
-- I am well versed with the AWS environment and the various services offfered by AWS, which I learnt as a part of my undergrad curriculum
-- I passed AWS CLF-CO2 exam and achieved **AWS Certified Cloud Practitioner certification**. The link to my certificate on Credly can be accessed [here](https://www.credly.com/badges/e859f964-3cb9-4463-9b5f-279960a61258)
-- I passed AWS SAA-CO3 exam and achieved **AWS Certified Solutions Architect Associate certification**. The link to my certificate on Credly can be accessed [here](https://www.credly.com/badges/c34555b7-092e-4e7a-8a68-c21a104b9416/public_url)
-#### Mobile Application Development 
-- I develop mobile applications using Flutter Framework with Firebase for backend services
-- I devloped a small 2D platformer game using Flutter and Flame which can be downloaded on [PlayStore](https://play.google.com/store/apps/details?id=com.ashmitchugh.floppyfrog&hl=en_IN)
+## Introduction
+I am Ashmit, a student from Vellore Institute of Technology. I am currently pursuing my bachelors in Computer Science and Engineering with a specialised focus in Cloud Computing and Automation 
 
+## Technical Skills
+- Languages : C++ , GoLang , SQL , Python
+- Libraries / Frameworks : Gin , HTTP
+- Tools : Amazon Web Services ( AWS ) , Git , GitHub
+- Coursework - Object Oriented Programming , Operating System , Database Management System
 
+## Projects
+#### Performance Comparison between parallel and sequential execution**
+  - Executed three geoemtric algorithms in both parallel and sequential environment to note down the difference in execution time
+  - Used OpenMP to simulate parallel processing environment
+  - Polygon Triangulation : Implemented Polygon Triangulation using Ear Clipping Method
+  - Convex Hull Representation : Found the convex hull for a given set of co-ordinates using Gift Wrapping Algorithm
+  - MST - Parellized Kruskal Algorithm to find the minimum spanning tree for a given graph
 
-#### Languages and Tools
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*i2skbfmDsHayHhqPfwt6pA.png" alt="dart" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/8931462?s=280&v=4" alt="flutter" width="40" height="40"/> </a> </p>
+#### Ticket System using Go and Gin 
+  - Implemented a REST API for a ticket management system using SQLite database
+  - Designed and implemented RESTful endpoints for creating, updating, and retrieving ticket details,while optimizing performance through efficient database queries.
+  - Developed a feature for updating ticket information (such as availability and event details) in real-time, using SQLite to ensure accurate and synchronized data across all user interactions
 
-#### Online Judge Platforms
-- I enjoy solving problems on platforms like CodeChef, CodeForces and LeetCode. My GitHub profile has repo's that contain the accepted solutions to various problems
+#### Scheduling and Paging Algorithms 
+  - Scheduling Algorithms: Designed and implemented more than 3 core CPU scheduling algorithms including First-Come, First-Served (FCFS), Shortest Job First (SJF), Priority Scheduling, and Multi-Level Queue Scheduling in a C++ operating system   project, improving process efficiency and resource management.
+  - Paging Algorithms: Developed and optimized 3 paging algorithms such as Optimal Page Replacement (OPR), Least Recently Used (LRU), and Second Chance, enhancing memory management
+  - Object Oriented Design: Applied advanced C++ techniques and OOP principles, leveraging optimized data structures for rapid data access and streamlined code management
+
+## Certifications 
+- Passed AWS CLF-CO2 exam and achieved **AWS Certified Cloud Practitioner certification**. The link to my certificate on Credly can be accessed [here](https://www.credly.com/badges/e859f964-3cb9-4463-9b5f-279960a61258)
+- Passed AWS SAA-CO3 exam and achieved **AWS Certified Solutions Architect Associate certification**. The link to my certificate on Credly can be accessed [here](https://www.credly.com/badges/c34555b7-092e-4e7a-8a68-c21a104b9416/public_url)
+
+## Online Judge Platforms 
+- LeetCode
 
 ![](https://leetcard.jacoblin.cool/ashmit2c1?theme=dark)
+- Codeforces
+  
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ashmit2c1&theme=dark)
+
