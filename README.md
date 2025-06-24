@@ -1,4 +1,6 @@
-## Introduction
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+## About me
 I am Ashmit, a student from Vellore Institute of Technology. I am currently pursuing my bachelors in Computer Science and Engineering with a specialised focus in Cloud Computing and Automation 
 
 ## Technical Skills
